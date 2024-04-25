@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Assign1/Addition",
+        "Assign2"
+    ],
+    "java.project.referencedLibraries": [
+        "/home/saddy/DSSetups/mpj-v0_44/lib/mpj.jar"
+    ]
+}
