@@ -1,0 +1,5 @@
+module ChangeCaseModule {
+    interface ChangeCase {
+        string update(in string str);
+    };
+};
